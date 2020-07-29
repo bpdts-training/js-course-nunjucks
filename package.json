@@ -1,0 +1,23 @@
+{
+  "name": "js-course-nunjucks",
+  "version": "1.0.0",
+  "description": "Nunjucks module for JavaScript course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ben Collier",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bpdts-training/js-course-nunjucks.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bpdts-training/js-course-nunjucks/issues"
+  },
+  "homepage": "https://github.com/bpdts-training/js-course-nunjucks#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
